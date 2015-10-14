@@ -1,0 +1,10 @@
+Project 2 
+1. Main Topic -> Security  Shared key, key pair.
+2. See the API working with p/private key and other cryptographic functions.
+3. Security Policy -> 
+						1. encrypt the msg between the server and client .
+						2. server remember the clients identity able to authenticate identities upon connection, just store in memory with Hash[Long key,identity] 
+						3. authentication upgrade the identity.;
+						4. rooms owenership should be able to transfer.
+4. Report -> implementation.
+	discuss the technology (RSA, DF) 
